@@ -1,12 +1,12 @@
- Viñales on Horseback
+# Viñales on Horseback
 
 A bilingual, responsive website developed for a real horseback riding business in Viñales, Cuba.
 
 The website helps visitors learn about the horseback riding experience and provides direct access to the business through WhatsApp, Airbnb, Tripadvisor and social media.
 
- Live Website
+## Live Website
 
-[Visit Viñales on Horseback](https://victorcubapri-sys.github.io/vinales-on-horseback/)
+**[Visit Viñales on Horseback](https://victorcubapri-sys.github.io/vinales-on-horseback/)**
 
 ## About the Project
 
@@ -16,7 +16,7 @@ The goal was to create a professional, accessible and mobile-friendly website wh
 
 The website is available in both Spanish and English to serve local and international visitors.
 
- Features
+## Features
 
 * Responsive design for desktop, tablet and mobile devices
 * Spanish and English content
@@ -25,7 +25,6 @@ The website is available in both Spanish and English to serve local and internat
 * Image gallery with lightbox
 * Client-side form validation
 * Accessible navigation and form labels
-  
 * Keyboard-friendly navigation
 * Reduced-motion support
 * Custom 404 page
@@ -130,7 +129,7 @@ Possible future improvements include:
 
 ## Author
 
-Victor Manuel Arencibia Solano
+**Victor Manuel Arencibia Solano**
 
 Junior Web Developer
 
